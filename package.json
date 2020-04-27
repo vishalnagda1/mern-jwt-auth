@@ -22,6 +22,7 @@
   "homepage": "https://github.com/vishalnagda1/mern-auth#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.19.0"
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.2.0"
   }
 }
