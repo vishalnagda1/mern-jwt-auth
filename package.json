@@ -1,0 +1,23 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "Minimal full-stack MERN app with authentication using passport and JWTs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalnagda1/mern-auth.git"
+  },
+  "keywords": [
+    "mern-auth",
+    "mern-auth-jwt"
+  ],
+  "author": "Vishal Nagda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishalnagda1/mern-auth/issues"
+  },
+  "homepage": "https://github.com/vishalnagda1/mern-auth#readme"
+}
