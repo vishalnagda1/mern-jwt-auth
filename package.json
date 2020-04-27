@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vishalnagda1/mern-auth/issues"
   },
-  "homepage": "https://github.com/vishalnagda1/mern-auth#readme"
+  "homepage": "https://github.com/vishalnagda1/mern-auth#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
 }
