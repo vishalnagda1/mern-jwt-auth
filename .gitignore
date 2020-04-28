@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore key file
+config/keys.js
