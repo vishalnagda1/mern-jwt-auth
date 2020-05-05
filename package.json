@@ -1,6 +1,6 @@
 {
   "name": "mern-jwt-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal full-stack MERN app with authentication using passport and JWTs.",
   "main": "server.js",
   "scripts": {

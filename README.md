@@ -1,11 +1,11 @@
-# MERN Auth (Backend)
+# MERN JWT Auth (Backend)
 
-[![GitHub license](https://img.shields.io/github/license/vishalnagda1/mern-jwt-auth?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/blob/master/LICENSE) [![Repository version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/releases/tag/v1.0.0)
+[![GitHub license](https://img.shields.io/github/license/vishalnagda1/mern-jwt-auth?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/blob/master/LICENSE) [![Repository version](https://img.shields.io/badge/version-1.0.1-brightgreen?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/releases/tag/v1.0.1)
 
 
 This is a Backend of a minimal full-stack login/authorization app using the `MERN` stack (`MongoDB` for our database, `Express` and `Node` for our backend, and `React` for our frontend). Also integrate `Redux` for state management for our `React` components.
 
-**MERN Auth app will allow users to**
+**MERN JWT Auth app will allow users to**
 
 - Register
 - Log in
