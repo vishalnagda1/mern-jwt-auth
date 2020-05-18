@@ -15,6 +15,19 @@ class Landing extends Component {
               Create a (minimal) full-stack app with user authentication via
               passport and JWTs
             </p>
+            <div>
+              <a
+                href="https://github.com/vishalnagda1/mern-jwt-auth"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                  style={{ height: "60px" }}
+                  alt="mern-jwt-auth"
+                />
+              </a>
+            </div>
             <br />
             <div className="col s6">
               <Link
