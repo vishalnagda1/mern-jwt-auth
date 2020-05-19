@@ -9,7 +9,7 @@
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "build": "npm run client-install && npm run build --prefix client && rm -rf client/node_modules",
+    "build": "npm run client-install && npm run build --prefix client",
     "prod": "NODE_ENV=production npm start",
     "build-prod": "npm run build && npm run prod"
   },
