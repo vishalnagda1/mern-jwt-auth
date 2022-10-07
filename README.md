@@ -134,9 +134,8 @@ Lastly, make sure you have the following installed.
 ### **Note**
 
 **You might get below give error while runnning client server** checkout [this issue](https://github.com/webpack/webpack/issues/14532) for more information.
-```shell
-digital envelope routines::unsupported
-```
+
+`digital envelope routines::unsupported`
 
 Then you can execute below command before starting the server
 ```shell
